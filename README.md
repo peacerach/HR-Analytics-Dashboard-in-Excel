@@ -15,8 +15,8 @@ An interactive and visually-driven HR Analytics Dashboard created in Microsoft E
 
 ## 📈 KPIs & Metrics Built
 
--🔹 Total Employees
--🔹 Attrition Count
+🔹 Total Employees
+🔹 Attrition Count
 -🔹 Active Employees
 -🔹 Attrition Rate
 -🔹 Average Age

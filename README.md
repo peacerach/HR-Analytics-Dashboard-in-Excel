@@ -17,10 +17,10 @@ An interactive and visually-driven HR Analytics Dashboard created in Microsoft E
 
 🔹 Total Employees
 🔹 Attrition Count
--🔹 Active Employees
--🔹 Attrition Rate
--🔹 Average Age
--🔹 Job Satisfaction Rating
+🔹 Active Employees
+🔹 Attrition Rate
+🔹 Average Age
+🔹 Job Satisfaction Rating
 
 
 ## 📊 Dashboard Insights – Questions Explored

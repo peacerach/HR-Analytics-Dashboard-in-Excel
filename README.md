@@ -11,7 +11,12 @@ An interactive and visually-driven HR Analytics Dashboard created in Microsoft E
 🔹Active Employees
 - Designed an HR Dashboard to highlight patterns and trends
 - Used Excel formulas, charts, and slicers for interactivity and dynamic analysis
-- 
+
+
+ ## Dashboard Interaction
+- <a href="https://github.com/peacerach/HR-Analytics-Dashboard-in-Excel/blob/main/HR%20daataset%20image.png" >View dataset
+
+
 
 ## 📈 KPIs & Metrics Built
 
@@ -42,7 +47,7 @@ An interactive and visually-driven HR Analytics Dashboard created in Microsoft E
 
 
 ## 📷 Screenshot
-
+! [Screenshot (495)](![HR daataset image](https://github.com/user-attachments/assets/52a28dd2-6c6a-4db7-8099-5eabf3f0bc56)
 
 
 
